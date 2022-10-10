@@ -2,6 +2,11 @@
 Вот */
 "use strict";
 
-let a = 'cat'
-let b = 'catee'
-// console.log(a +  b);
+let book = {
+    title: 'name',
+    author: 'name',
+    nPages: 0,
+    price: 0,
+};
+
+console.log(book.p);
